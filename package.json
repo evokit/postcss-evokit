@@ -1,5 +1,5 @@
 {
-  "name": "@evokit/postcss-evokit",
+  "name": "postcss-evokit",
   "version": "1.0.0",
   "description": "Postcss plugins for evokit css",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "postcss",
     "evokit"
   ],
-  "author": "doccc.dev",
+  "author": "docccdev",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/evokit/postcss-evokit/issues"
