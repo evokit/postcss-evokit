@@ -1,0 +1,32 @@
+{
+  "name": "postcss-evokit",
+  "version": "1.0.0",
+  "description": "Postcss plugins for evokit css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evokit/postcss-evokit.git"
+  },
+  "keywords": [
+    "postcss",
+    "evokit"
+  ],
+  "author": "doccc.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evokit/postcss-evokit/issues"
+  },
+  "homepage": "https://github.com/evokit/postcss-evokit#readme",
+  "dependencies": {
+    "postcss": "^6.0.13",
+    "postcss-conditionals": "^2.1.0",
+    "postcss-each": "^0.10.0",
+    "postcss-math": "0.0.8",
+    "postcss-mixins": "^6.2.0",
+    "postcss-nested": "^2.1.2",
+    "postcss-variables": "^1.1.1"
+  },
+}
