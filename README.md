@@ -19,8 +19,6 @@
 
 ---
 
-# Пример
-
 ### Before
 ```scss
 $block-theme-enable: true;
