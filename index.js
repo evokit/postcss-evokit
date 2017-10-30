@@ -31,6 +31,11 @@ var processors = [
         namespace: 'nested',
         defaults:  {}
     },
+    {
+        plugin:    require('css-mqpacker'),
+        namespace: 'mqpacker',
+        defaults:  {}
+    },
 ];
 
 module.exports = postcss.plugin('postcss-evokit', function (rawoptions) {

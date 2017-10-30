@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/evokit/postcss-evokit#readme",
   "dependencies": {
+    "css-mqpacker": "^6.0.1",
     "postcss": "^6.0.13",
     "postcss-conditionals": "^2.1.0",
     "postcss-each": "^0.10.0",
