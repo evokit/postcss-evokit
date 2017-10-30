@@ -1,5 +1,5 @@
 {
-  "name": "postcss-evokit",
+  "name": "@evokit/postcss-evokit",
   "version": "1.0.0",
   "description": "Postcss plugins for evokit css",
   "main": "index.js",
